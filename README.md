@@ -1,5 +1,5 @@
 # Rust Sandbox
-Sandbox for learning Rust
+A sandbox for learning Rust.
 
 This repo creates a docker image that can be used for playing around with the Rust programming language and Rust build tools.
 
@@ -29,4 +29,13 @@ Just run the same command as above:
 ```
 
 to spin-up a new container. Anything you put under /mnt/shared from before will also be in the container.
+
+## Useful resources for learning Rust
+* https://doc.rust-lang.org/book/ch00-00-introduction.html
+* https://docs.rust-embedded.org/book/intro/index.html
+* https://doc.rust-lang.org/std/index.html
+* https://doc.rust-lang.org/rust-by-example/index.html
+* https://github.com/rust-lang/rustlings
+* https://play.rust-lang.org/
+
 
