@@ -5,7 +5,7 @@ This repo creates a docker image that can be used for playing around with the Ru
 
 ## Building and running docker image
 ```shell
-cd rust_sandbot
+cd rust_sandbox
 ./start.sh -b rust_sandbox_img rust
 ```
 
