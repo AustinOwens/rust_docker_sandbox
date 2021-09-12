@@ -1,7 +1,7 @@
 # Rust Docker Sandbox
-A sandbox for learning Rust.
+A bare-bones sandbox for developing with the Rust programming language.
 
-This repo creates a docker image that can be used for playing around with the Rust programming language and Rust build tools.
+THIS IS ONLY A SANDBOX AND NOT MEANT FOR PRODUCTION USE
 
 ## Building and running docker image
 ```shell
